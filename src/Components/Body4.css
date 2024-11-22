@@ -1,0 +1,23 @@
+.ring{
+    height: 200px;
+}
+.ring img{
+    height: 400px;
+    width: 49%;
+    margin-top: 250px;
+    position: relative;
+    left: 738px;
+}
+.ring h1{
+    position: relative;
+    top: -281px;
+    margin-left: 100px;
+    font-weight: 400;
+}
+.ring p{
+    position: relative;
+    top: -281px;
+    margin-left: 100px;
+    font-weight: 400;
+    font-size: 18px;
+}

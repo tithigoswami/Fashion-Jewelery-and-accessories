@@ -1,0 +1,41 @@
+.app{
+    background-color: #fff8ef;
+    height: 100px;
+  }
+  .app span{
+      display: inline;
+      font-size: 20px;
+      padding: 20px 20px 20px 20px;
+      position: relative;
+      top: 34px;
+      margin-left: 33px;
+      left: 189px;
+  }
+  .btn{
+    font-size: 17px;
+    position: relative;
+    top: 34px;
+    left: 420px;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    
+  }
+  .btn1{
+    font-size: 17px;
+    top: 34px; 
+    position: relative;
+    color: black;
+    left: 450px;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+  }
+  .btn2{
+    font-size: 17px;
+    top: 34px; 
+    position: relative;
+    color: black;
+    left: 480px;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+  }
+  

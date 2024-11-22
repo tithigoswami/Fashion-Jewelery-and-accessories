@@ -1,0 +1,23 @@
+.necklace{
+    height: 200px;
+
+} 
+.necklace img{
+    height: 400px;
+    width: 50%;
+    margin-top: 50px;
+}
+.necklace h1{
+    position: relative;
+    top: -346px;
+    margin-left: 839px;
+    font-weight: 400;
+}
+.necklace p{
+    position: relative;
+    top: -346px;
+    margin-left: 839px;
+    font-weight: 400;
+    font-size: 17px;
+
+}

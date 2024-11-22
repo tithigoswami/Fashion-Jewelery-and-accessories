@@ -1,0 +1,14 @@
+.bodyone{
+    height: 80px;
+    background-color: white;
+    position: relative;
+    top: -35px;
+}
+.bodyone p{
+    color: rgb(50, 9, 9);
+    font-size: 35px;
+    text-align: center;
+    font-family: monospace;
+    padding-top: 20px;
+   
+}

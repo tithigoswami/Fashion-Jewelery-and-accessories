@@ -1,0 +1,24 @@
+.earring{
+    height: 200px;
+
+} 
+.earring img{
+    height: 400px;
+    width: 50%;
+    margin-top: 452px;
+}
+
+.earring h1{
+    position: relative;
+    top: -346px;
+    margin-left: 839px;
+    font-weight: 400;
+}
+.earring p{
+    position: relative;
+    top: -346px;
+    margin-left: 839px;
+    font-weight: 400;
+    font-size: 17px;
+
+}

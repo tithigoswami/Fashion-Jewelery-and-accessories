@@ -1,0 +1,10 @@
+.bannerimg{
+    background-color: mediumpurple;
+    height: 400px;
+    position: relative;
+    top: -35px;
+}
+.bannerimg img{
+    height: 470px;
+    width: 100%;
+}
